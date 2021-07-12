@@ -34,13 +34,40 @@
 
 |Problem|Level|Solution|
 |---|:---:|:---:|
-|[name](link)|level|[Here](./solution/?)|
+|[수들의 합 2](https://www.acmicpc.net/problem/2003)|S3|[Here](./solution/13)|
+|[나무 자르기](https://www.acmicpc.net/problem/2805)|S3|[Here](./solution/14)|
+|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|B1|[Here](./solution/15)|
+|[달리기](https://www.acmicpc.net/problem/2517)|P4|[Here](./solution/16)|
+|[부분합](https://www.acmicpc.net/problem/1806)|G4|[Here](./solution/17)|
+|[내려가기](https://www.acmicpc.net/problem/2096)|G4|[Here](./solution/18)|
+|[두 배열의 합](https://www.acmicpc.net/problem/2143)|G3|[Here](./solution/19)|
+|[게임](https://www.acmicpc.net/problem/1072)|S3|[Here](./solution/20)|
+|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|G2|[Here](./solution/21)|
+|[집배원 한상덕](https://www.acmicpc.net/problem/2842)|P5|[Here](./solution/22)|
+|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|P5|[Here](./solution/23)|
 
 ## 자료구조
 
 |Problem|Level|Solution|
 |---|:---:|:---:|
-|[name](link)|level|[Here](./solution/?)|
+|[스택](https://www.acmicpc.net/problem/10828)|S4|[Here](./solution/13)|
+|[큐](https://www.acmicpc.net/problem/10845)|S4|[Here](./solution/14)|
+|[트리 순회](https://www.acmicpc.net/problem/1991)|S1|[Here](./solution/15)|
+|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|G1|[Here](./solution/15)|
+|[괄호의 값](https://www.acmicpc.net/problem/2504)|S2|[Here](./solution/16)|
+|[트리인가?](https://www.acmicpc.net/problem/6416)|G5|[Here](./solution/17)|
+|[이진 검색 트리](https://www.acmicpc.net/problem/1539)|P5|[Here](./solution/18)|
+|[생태학](https://www.acmicpc.net/problem/4358)|G5|[Here](./solution/19)|
+|[Boggle](https://www.acmicpc.net/problem/9202)|P5|[Here](./solution/20)|
+|[최소 힙](https://www.acmicpc.net/problem/1927)|S1|[Here](./solution/21)|
+|[최대 힙](https://www.acmicpc.net/problem/11279)|S2|[Here](./solution/22)|
+|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|G2|[Here](./solution/23)|
+|[보석 도둑](https://www.acmicpc.net/problem/1202)|G2|[Here](./solution/23)|
+|[사탕상자](https://www.acmicpc.net/problem/2243)|P5|[Here](./solution/23)|
+|[개똥벌레](https://www.acmicpc.net/problem/3020)|G5|[Here](./solution/23)|
+|[커피숍2](https://www.acmicpc.net/problem/1275)|G1|[Here](./solution/23)|
+|[소수의 곱](https://www.acmicpc.net/problem/2014)|G1|[Here](./solution/23)|
+|[강수량](https://www.acmicpc.net/problem/2094)|P3|[Here](./solution/23)|
 
 ## 정수론
 
