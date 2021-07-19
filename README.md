@@ -17,7 +17,7 @@
 |Problem|Level|Solution|
 |---|:---:|:---:|
 |[고스택](https://www.acmicpc.net/problem/3425)|G3|[Here](./solution/1)|
-|[탈출](https://www.acmicpc.net/problem/2362)|?|[Here](./solution/2)|
+|[탈출](https://www.acmicpc.net/problem/3055)|G5|[Here](./solution/2)|
 |[가르침](https://www.acmicpc.net/problem/1062)|G4|[Here](./solution/3)|
 |[후보 추천하기](https://www.acmicpc.net/problem/1713)|S2|[Here](./solution/4)|
 |[게임](https://www.acmicpc.net/problem/1072)|S3|[Here](./solution/5)|
