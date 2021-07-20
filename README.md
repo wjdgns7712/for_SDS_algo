@@ -16,10 +16,10 @@
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
-|[고스택](https://www.acmicpc.net/problem/3425)|G3|[Here](./solution/1)| X |
-|[탈출](https://www.acmicpc.net/problem/3055)|G5|[Here](./solution/2)| O |
-|[가르침](https://www.acmicpc.net/problem/1062)|G4|[Here](./solution/3)| X |
-|[후보 추천하기](https://www.acmicpc.net/problem/1713)|S2|[Here](./solution/4)| O |
+|[고스택](https://www.acmicpc.net/problem/3425)|G3|[Here](./solution/3425)| X |
+|[탈출](https://www.acmicpc.net/problem/3055)|G5|[Here](./solution/3055)| O |
+|[가르침](https://www.acmicpc.net/problem/1062)|G4|[Here](./solution/1062)| X |
+|[후보 추천하기](https://www.acmicpc.net/problem/1713)|S2|[Here](./solution/1713)| O |
 |[게임](https://www.acmicpc.net/problem/1072)|S3|[Here](./solution/5)| - |
 |[교환](https://www.acmicpc.net/problem/1039)|G3|[Here](./solution/6)| - |
 |[수 찾기](https://www.acmicpc.net/problem/1920)|S4|[Here](./solution/7)| - |
@@ -34,14 +34,14 @@
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
-|[수들의 합 2](https://www.acmicpc.net/problem/2003)|S3|[Here](./solution/13)| O |
-|[나무 자르기](https://www.acmicpc.net/problem/2805)|S3|[Here](./solution/14)| O |
+|[수들의 합 2](https://www.acmicpc.net/problem/2003)|S3|[Here](./solution/2003)| O |
+|[나무 자르기](https://www.acmicpc.net/problem/2805)|S3|[Here](./solution/2805)| O |
 |[피보나치 수 2](https://www.acmicpc.net/problem/2748)|B1|[Here](./solution/15)| - |
 |[달리기](https://www.acmicpc.net/problem/2517)|P4|[Here](./solution/16)| - |
-|[부분합](https://www.acmicpc.net/problem/1806)|G4|[Here](./solution/17)| O |
+|[부분합](https://www.acmicpc.net/problem/1806)|G4|[Here](./solution/1806)| O |
 |[내려가기](https://www.acmicpc.net/problem/2096)|G4|[Here](./solution/18)| - |
-|[두 배열의 합](https://www.acmicpc.net/problem/2143)|G3|[Here](./solution/19)| O |
-|[게임](https://www.acmicpc.net/problem/1072)|S3|[Here](./solution/20)| O |
+|[두 배열의 합](https://www.acmicpc.net/problem/2143)|G3|[Here](./solution/2143)| O |
+|[게임](https://www.acmicpc.net/problem/1072)|S3|[Here](./solution/1072)| O |
 |[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|G2|[Here](./solution/21)| - |
 |[집배원 한상덕](https://www.acmicpc.net/problem/2842)|P5|[Here](./solution/22)| - |
 |[최솟값 찾기](https://www.acmicpc.net/problem/11003)|P5|[Here](./solution/23)| - |
