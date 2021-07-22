@@ -1,0 +1,1 @@
+# [커피숍2](https://www.acmicpc.net/problem/1275)

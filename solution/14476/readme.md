@@ -1,0 +1,1 @@
+# [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476)
