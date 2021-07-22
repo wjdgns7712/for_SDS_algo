@@ -36,7 +36,7 @@
 |---|:---:|:---:|:---:|
 |[수들의 합 2](https://www.acmicpc.net/problem/2003)|S3|[Here](./solution/2003)| O |
 |[나무 자르기](https://www.acmicpc.net/problem/2805)|S3|[Here](./solution/2805)| O |
-|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|B1|[Here](./solution/15)| - |
+|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|B1|[Here](./solution/2748)| O |
 |[달리기](https://www.acmicpc.net/problem/2517)|P4|[Here](./solution/16)| - |
 |[부분합](https://www.acmicpc.net/problem/1806)|G4|[Here](./solution/1806)| O |
 |[내려가기](https://www.acmicpc.net/problem/2096)|G4|[Here](./solution/18)| - |
@@ -80,7 +80,7 @@
 |[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|S1|[Here](./solution/34)| - |
 |[소수의 연속합](https://www.acmicpc.net/problem/1644)|G3|[Here](./solution/35)| - |
 |[소인수분해](https://www.acmicpc.net/problem/11653)|S4|[Here](./solution/36)| - |
-|[암호제작](https://www.acmicpc.net/problem/1837)|B3|[Here](./solution/37)| - |
+|[암호제작](https://www.acmicpc.net/problem/1837)|B3|[Here](./solution/1837)| O |
 |[최대공약수](https://www.acmicpc.net/problem/1850)|S2|[Here](./solution/38)| - |
 |[보이는 점의 개수](https://www.acmicpc.net/problem/2725)|S2|[Here](./solution/39)| - |
 |[1](https://www.acmicpc.net/problem/4375)|S3|[Here](./solution/40)| - |
