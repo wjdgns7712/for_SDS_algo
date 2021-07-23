@@ -1,0 +1,1 @@
+# [사전](https://www.acmicpc.net/problem/1256)
