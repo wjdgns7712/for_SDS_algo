@@ -109,13 +109,13 @@
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
-|[집합의 표현](https://www.acmicpc.net/problem/1717)|G4|[Here](./solution/1717)| - |
-|[줄 세우기](https://www.acmicpc.net/problem/1681)|B2|[Here](./solution/1681)| - |
-|[네트워크 연결](https://www.acmicpc.net/problem/1922)|G4|[Here](./solution/1922)| - |
-|[LCA 2](https://www.acmicpc.net/problem/11438)|P5|[Here](./solution/11438)| - |
-|[키 순서](https://www.acmicpc.net/problem/2458)|G4|[Here](./solution/2458)| - |
-|[게임 개발](https://www.acmicpc.net/problem/1516)|G3|[Here](./solution/1516)| - |
-|[교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)|P3|[Here](./solution/3830)| - |
+|[집합의 표현](https://www.acmicpc.net/problem/1717)|G4|[Here](./solution/1717)| O |
+|[줄 세우기](https://www.acmicpc.net/problem/2252)|G2|[Here](./solution/2252)| O |
+|[네트워크 연결](https://www.acmicpc.net/problem/1922)|G4|[Here](./solution/1922)| X |
+|[LCA 2](https://www.acmicpc.net/problem/11438)|P5|[Here](./solution/11438)| X |
+|[키 순서](https://www.acmicpc.net/problem/2458)|G4|[Here](./solution/2458)| X |
+|[게임 개발](https://www.acmicpc.net/problem/1516)|G3|[Here](./solution/1516)| X |
+|[교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)|P3|[Here](./solution/3830)| X |
 |[도로 네트워크](https://www.acmicpc.net/problem/2958)|P2|[Here](./solution/2958)| - |
 |[두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626)|D5|[Here](./solution/1626)| - |	 
 
