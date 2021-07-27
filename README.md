@@ -116,18 +116,18 @@
 |[키 순서](https://www.acmicpc.net/problem/2458)|G4|[Here](./solution/2458)| X |
 |[게임 개발](https://www.acmicpc.net/problem/1516)|G3|[Here](./solution/1516)| X |
 |[교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)|P3|[Here](./solution/3830)| X |
-|[도로 네트워크](https://www.acmicpc.net/problem/2958)|P2|[Here](./solution/2958)| - |
+|[도로 네트워크](https://www.acmicpc.net/problem/2958)|P2|[Here](./solution/2958)| X |
 |[두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626)|D5|[Here](./solution/1626)| - |	 
 
 ## 그래프2
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
-|[단절점](https://www.acmicpc.net/problem/11266)|P5|[Here](./solution/11266)| - |
+|[단절점](https://www.acmicpc.net/problem/11266)|P5|[Here](./solution/11266)| X |
 |[최단경로](https://www.acmicpc.net/problem/1753)|G5|[Here](./solution/1753)| - |
 |[타임머신](https://www.acmicpc.net/problem/1440)|B2|[Here](./solution/1440)| - |
-|[플로이드](https://www.acmicpc.net/problem/11404)|G4|[Here](./solution/11404)| - |
-|[단절선](https://www.acmicpc.net/problem/11400)|P5|[Here](./solution/11400)| - |
+|[플로이드](https://www.acmicpc.net/problem/11404)|G4|[Here](./solution/11404)| X |
+|[단절선](https://www.acmicpc.net/problem/11400)|P5|[Here](./solution/11400)| X |
 |[할로윈 묘지](https://www.acmicpc.net/problem/3860)|P5|[Here](./solution/3860)| - |
 |[거의 최단 경로](https://www.acmicpc.net/problem/5719)|P5|[Here](./solution/5719)| - |
 |[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)|P5|[Here](./solution/1854)| - |
