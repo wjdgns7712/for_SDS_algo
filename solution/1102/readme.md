@@ -1,0 +1,1 @@
+# [발전소](https://www.acmicpc.net/problem/1102)

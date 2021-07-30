@@ -1,0 +1,1 @@
+# [공장](https://www.acmicpc.net/problem/7578)

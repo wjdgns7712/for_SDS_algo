@@ -1,0 +1,1 @@
+# [케이크 자르기 2](https://www.acmicpc.net/problem/10714)
