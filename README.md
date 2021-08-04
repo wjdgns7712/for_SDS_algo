@@ -111,10 +111,10 @@
 |---|:---:|:---:|:---:|
 |[집합의 표현](https://www.acmicpc.net/problem/1717)|G4|[Here](./solution/1717)| O |
 |[줄 세우기](https://www.acmicpc.net/problem/2252)|G2|[Here](./solution/2252)| O |
-|[네트워크 연결](https://www.acmicpc.net/problem/1922)|G4|[Here](./solution/1922)| X |
-|[LCA 2](https://www.acmicpc.net/problem/11438)|P5|[Here](./solution/11438)| X |
-|[키 순서](https://www.acmicpc.net/problem/2458)|G4|[Here](./solution/2458)| X |
-|[게임 개발](https://www.acmicpc.net/problem/1516)|G3|[Here](./solution/1516)| X |
+|[네트워크 연결](https://www.acmicpc.net/problem/1922)|G4|[Here](./solution/1922)| O |
+|[LCA 2](https://www.acmicpc.net/problem/11438)|P5|[Here](./solution/11438)| O |
+|[키 순서](https://www.acmicpc.net/problem/2458)|G4|[Here](./solution/2458)| O |
+|[게임 개발](https://www.acmicpc.net/problem/1516)|G3|[Here](./solution/1516)| O |
 |[교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)|P3|[Here](./solution/3830)| O |
 |[도로 네트워크](https://www.acmicpc.net/problem/3176)|P4|[Here](./solution/3176)| X |
 |[두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626)|D5|[Here](./solution/1626)| X |	 
