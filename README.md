@@ -127,7 +127,7 @@
 |[최단경로](https://www.acmicpc.net/problem/1753)|G5|[Here](./solution/1753)| O |
 |[타임머신](https://www.acmicpc.net/problem/11657)|G5|[Here](./solution/11657)| O |
 |[플로이드](https://www.acmicpc.net/problem/11404)|G4|[Here](./solution/11404)| O |
-|[단절선](https://www.acmicpc.net/problem/11400)|P5|[Here](./solution/11400)| X |
+|[단절선](https://www.acmicpc.net/problem/11400)|P5|[Here](./solution/11400)| O |
 |[할로윈 묘지](https://www.acmicpc.net/problem/3860)|P5|[Here](./solution/3860)| X |
 |[거의 최단 경로](https://www.acmicpc.net/problem/5719)|P5|[Here](./solution/5719)| X |
 |[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)|P5|[Here](./solution/1854)| X |
