@@ -119,7 +119,7 @@
 |[도로 네트워크](https://www.acmicpc.net/problem/3176)|P4|[Here](./solution/3176)| O |
 |[두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626)|D5|[Here](./solution/1626)| X |	 
 
-## 그래프2
+## 그래프 2
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
