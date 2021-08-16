@@ -7,6 +7,7 @@ public class Main {
     static ArrayList<Integer>[] parent;
     static int N, M, S, D;
     static int[] dist;
+    static boolean[][] visit;
     static final int MAX = Integer.MAX_VALUE;
 
     public static void main(String[] args) throws Exception {
@@ -36,6 +37,7 @@ public class Main {
                 edges[U].put(V, P);
             }
 
+            visit = new boolean[N+1][N+1];
             dijkstra(); //최단경로 찾기
             remove(D); // 최단경로 지우기
             dijkstra(); //최단거리 찾기
@@ -74,20 +76,22 @@ public class Main {
 
                 if (dist[now] + cost < dist[next]){
                     dist[next] = dist[now] + cost;
+                    pq.add(new int[]{next, dist[next]});
                     parent[next].clear();
                     parent[next].add(now);
                 } else if (dist[now] + cost == dist[next])
                     parent[next].add(now);
-
-                pq.add(new int[]{next, cost});
             }
         }
     }
     static void remove(int child){
         if (child!=S)
             for(int p : parent[child]){
-                edges[p].remove(child);
-                remove(p);
+                if (!visit[child][p]) {
+                    visit[child][p] = true;
+                    edges[p].remove(child);
+                    remove(p);
+                }
             }
     }
 }

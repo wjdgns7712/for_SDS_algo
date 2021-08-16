@@ -129,16 +129,16 @@
 |[플로이드](https://www.acmicpc.net/problem/11404)|G4|[Here](./solution/11404)| O |
 |[단절선](https://www.acmicpc.net/problem/11400)|P5|[Here](./solution/11400)| O |
 |[할로윈 묘지](https://www.acmicpc.net/problem/3860)|P5|[Here](./solution/3860)| O |
-|[거의 최단 경로](https://www.acmicpc.net/problem/5719)|P5|[Here](./solution/5719)| X |
+|[거의 최단 경로](https://www.acmicpc.net/problem/5719)|P5|[Here](./solution/5719)| O |
 |[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)|P5|[Here](./solution/1854)| X |
 
 ## 동적계획법1
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
-|[정수 삼각형](https://www.acmicpc.net/problem/1932)|S1|[Here](./solution/1932)| X |
-|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|S3|[Here](./solution/11659)| X |
-|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|S1|[Here](./solution/11660)| X |
+|[정수 삼각형](https://www.acmicpc.net/problem/1932)|S1|[Here](./solution/1932)| O |
+|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|S3|[Here](./solution/11659)| O |
+|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|S1|[Here](./solution/11660)| O |
 |[계단 오르기](https://www.acmicpc.net/problem/2579)|S3|[Here](./solution/2579)| X |
 |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|G5|[Here](./solution/1915)| O |
 |[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|G3|[Here](./solution/11049)| X |
