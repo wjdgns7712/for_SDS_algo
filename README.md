@@ -139,17 +139,17 @@
 |[정수 삼각형](https://www.acmicpc.net/problem/1932)|S1|[Here](./solution/1932)| O |
 |[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|S3|[Here](./solution/11659)| O |
 |[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|S1|[Here](./solution/11660)| O |
-|[계단 오르기](https://www.acmicpc.net/problem/2579)|S3|[Here](./solution/2579)| X |
+|[계단 오르기](https://www.acmicpc.net/problem/2579)|S3|[Here](./solution/2579)| O |
 |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|G5|[Here](./solution/1915)| O |
-|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|G3|[Here](./solution/11049)| X |
+|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|G3|[Here](./solution/11049)| O |
 |[가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)|P5|[Here](./solution/14003)| X |
 	 
 ## 동적계획법2
 
 |Problem|Level|Solution|Solved|
 |---|:---:|:---:|:---:|
-|[앱](https://www.acmicpc.net/problem/7579)|G3|[Here](./solution/7579)| X |
-|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|G5|[Here](./solution/5582)| X |
+|[앱](https://www.acmicpc.net/problem/7579)|G3|[Here](./solution/7579)| O |
+|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|G5|[Here](./solution/5582)| O |
 |[LCS 2](https://www.acmicpc.net/problem/9252)|G5|[Here](./solution/9252)| X |
 |[제단](https://www.acmicpc.net/problem/5626)|P4|[Here](./solution/5626)| X |
 |[전구](https://www.acmicpc.net/problem/2449)|P4|[Here](./solution/2449)| X |
