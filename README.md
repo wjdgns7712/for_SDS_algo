@@ -150,7 +150,7 @@
 |---|:---:|:---:|:---:|
 |[앱](https://www.acmicpc.net/problem/7579)|G3|[Here](./solution/7579)| O |
 |[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|G5|[Here](./solution/5582)| O |
-|[LCS 2](https://www.acmicpc.net/problem/9252)|G5|[Here](./solution/9252)| X |
+|[LCS 2](https://www.acmicpc.net/problem/9252)|G5|[Here](./solution/9252)| O |
 |[제단](https://www.acmicpc.net/problem/5626)|P4|[Here](./solution/5626)| X |
 |[전구](https://www.acmicpc.net/problem/2449)|P4|[Here](./solution/2449)| X |
 |[카드 게임](https://www.acmicpc.net/problem/11062)|S5|[Here](./solution/11062)| O |
