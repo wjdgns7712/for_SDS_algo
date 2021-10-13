@@ -18,7 +18,7 @@
 |---|:---:|:---:|:---:|
 |[고스택](https://www.acmicpc.net/problem/3425)|G3|[Here](./solution/3425)| O |
 |[탈출](https://www.acmicpc.net/problem/3055)|G5|[Here](./solution/3055)| O |
-|[가르침](https://www.acmicpc.net/problem/1062)|G4|[Here](./solution/1062)| X |
+|[가르침](https://www.acmicpc.net/problem/1062)|G4|[Here](./solution/1062)| O |
 |[후보 추천하기](https://www.acmicpc.net/problem/1713)|S2|[Here](./solution/1713)| O |
 |[게임](https://www.acmicpc.net/problem/1103)|G2|[Here](./solution/1103)| X |
 |[교환](https://www.acmicpc.net/problem/1039)|G3|[Here](./solution/1039)| X |
